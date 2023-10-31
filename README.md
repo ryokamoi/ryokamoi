@@ -6,6 +6,7 @@ I am a Ph.D. student at Penn State University advised by Dr. Rui Zhang. I’m in
 ## Datasets
 
 * WiCE: Real-World Entailment for Claims in Wikipedia (EMNLP2023) [[paper](https://arxiv.org/abs/2303.01432)] [[dataset and code](https://github.com/ryokamoi/wice)]
+  * Dataset for document-level NLI
   * Fine-grained textual entailment dataset built on natural claim and evidence pairs extracted from Wikipedia
 
 ## Other Resources
