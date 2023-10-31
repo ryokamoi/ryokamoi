@@ -1,4 +1,11 @@
-### Hi there 👋
+## Datasets
+
+* WiCE: Real-World Entailment for Claims in Wikipedia (EMNLP2023) [[paper](https://arxiv.org/abs/2303.01432)] [[dataset and code](https://github.com/ryokamoi/wice)]
+  * Fine-grained textual entailment dataset built on natural claim and evidence pairs extracted from Wikipedia
+
+## Other Resources
+
+* Shortcomings of Question Answering Based Factuality Frameworks for Error Localization (EACL2023) [[paper](https://aclanthology.org/2023.eacl-main.11/)] [[human annotation](https://github.com/ryokamoi/QA-metrics-human-annotation)]
 
 <!--
 **ryokamoi/ryokamoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
