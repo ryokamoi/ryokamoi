@@ -11,7 +11,7 @@ I am a Ph.D. student at Penn State University advised by Dr. Rui Zhang. I’m in
   * Expert error annotations on responses from GPT-4 and Llama 2 70B on three tasks
 
 * WiCE [[dataset and code](https://github.com/ryokamoi/wice)]
-  * Paper: [WiCE: Real-World Entailment for Claims in Wikipedia (EMNLP2023)](https://arxiv.org/abs/2303.01432)
+  * Paper: [WiCE: Real-World Entailment for Claims in Wikipedia](https://arxiv.org/abs/2303.01432) (EMNLP2023)
   * Dataset for document-level NLI
   * Fine-grained textual entailment dataset built on natural claim and evidence pairs extracted from Wikipedia
 
