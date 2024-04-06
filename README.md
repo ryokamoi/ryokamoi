@@ -2,10 +2,11 @@ I am a Ph.D. student at Penn State University advised by Dr. Rui Zhang. I’m in
 
 * [Personal Website](https://ryokamoi.github.io/)
 * [Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)
+* [Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)
 
 ## Datasets
 
-* ReaLMistake [[dataset](https://huggingface.co/datasets/ryokamoi/realmistake)] [[code](https://github.com/psunlpgroup/ReaLMistake)]
+* ReaLMistake [[huggingface dataset](https://huggingface.co/datasets/ryokamoi/realmistake)] [[code](https://github.com/psunlpgroup/ReaLMistake)]
   * Paper: [Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602)
   * Benchmark for evaluating error detection methods that detect mistakes in LLM responses
   * Expert error annotations on responses from GPT-4 and Llama 2 70B on three tasks
