@@ -1,10 +1,8 @@
 I am a Ph.D. student at Penn State University advised by Dr. Rui Zhang. I’m interested in building reliable and explainable NLP systems.
 
-![GitHub User's stars](https://img.shields.io/github/stars/ryokamoi?style=flat&label=User's%20Stars&color=yellow)
+[[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)]
 
-* [Personal Website](https://ryokamoi.github.io/)
-* [Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)
-* [Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)
+![GitHub User's stars](https://img.shields.io/github/stars/ryokamoi?style=flat&label=User's%20Stars&color=yellow)
 
 ## Datasets
 
@@ -20,7 +18,8 @@ I am a Ph.D. student at Penn State University advised by Dr. Rui Zhang. I’m in
 
 ## Other Resources
 
-* Shortcomings of Question Answering Based Factuality Frameworks for Error Localization (EACL2023) [[paper](https://aclanthology.org/2023.eacl-main.11/)] [[human annotation](https://github.com/ryokamoi/QA-metrics-human-annotation)]
+* Shortcomings of Question Answering Based Factuality Frameworks for Error Localization [[human annotation](https://github.com/ryokamoi/QA-metrics-human-annotation)]
+  * Paper: [Shortcomings of Question Answering Based Factuality Frameworks for Error Localization](https://aclanthology.org/2023.eacl-main.11/) (EACL2023)
 
 <!--
 **ryokamoi/ryokamoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
