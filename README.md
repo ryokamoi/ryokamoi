@@ -1,8 +1,6 @@
-I am a Ph.D. student at Penn State University advised by Dr. Rui Zhang. I’m interested in building reliable and explainable NLP systems.
+I am a Ph.D. student at Penn State University advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I’m interested in building reliable and trustworthy NLP systems.
 
-[[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)]
-
-![GitHub User's stars](https://img.shields.io/github/stars/ryokamoi?style=flat&label=User's%20Stars&color=yellow)
+[[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)] ![GitHub User's stars](https://img.shields.io/github/stars/ryokamoi?style=flat&label=User's%20Stars&color=yellow)
 
 ## Datasets
 
