@@ -5,7 +5,7 @@ I am a Ph.D. student at Penn State University advised by Dr. [Rui Zhang](https:/
 ## Datasets
 
 * ReaLMistake [[huggingface dataset](https://huggingface.co/datasets/ryokamoi/realmistake)] [[code](https://github.com/psunlpgroup/ReaLMistake)]
-  * Paper: [Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602)
+  * Paper: [Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602) (COLM 2024)
   * Benchmark for evaluating error detection methods that detect mistakes in LLM responses
   * Expert error annotations on responses from GPT-4 and Llama 2 70B on three tasks
 
