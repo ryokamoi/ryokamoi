@@ -14,6 +14,11 @@ I am a Ph.D. student at Penn State University advised by Dr. [Rui Zhang](https:/
   * Dataset for document-level NLI
   * Fine-grained textual entailment dataset built on natural claim and evidence pairs extracted from Wikipedia
 
+## Survey
+
+* [When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs](https://arxiv.org/abs/2406.01297) (TACL 2024)
+  * Paper list: [https://github.com/ryokamoi/llm-self-correction-papers](https://github.com/ryokamoi/llm-self-correction-papers)
+
 ## Other Resources
 
 * Shortcomings of Question Answering Based Factuality Frameworks for Error Localization [[human annotation](https://github.com/ryokamoi/QA-metrics-human-annotation)]
