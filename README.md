@@ -12,12 +12,12 @@ I am a Ph.D. student at Penn State University advised by Dr. [Rui Zhang](https:/
 * WiCE [[dataset and code](https://github.com/ryokamoi/wice)]
   * Paper: [WiCE: Real-World Entailment for Claims in Wikipedia](https://arxiv.org/abs/2303.01432) (EMNLP2023)
   * Dataset for document-level NLI
-  * Fine-grained textual entailment dataset built on natural claim and evidence pairs extracted from Wikipedia
+  * Fine-grained textual entailment dataset built on pairs of natural claims and evidence extracted from Wikipedia
 
 ## Survey
 
 * [When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs](https://arxiv.org/abs/2406.01297) (TACL 2024)
-  * Paper list: [https://github.com/ryokamoi/llm-self-correction-papers](https://github.com/ryokamoi/llm-self-correction-papers)
+  * Paper list on self-correction of LLMs: [https://github.com/ryokamoi/llm-self-correction-papers](https://github.com/ryokamoi/llm-self-correction-papers)
 
 ## Other Resources
 
