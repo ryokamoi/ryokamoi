@@ -1,8 +1,12 @@
-I am a Ph.D. student at Penn State University advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I’m interested in building reliable and trustworthy NLP systems.
+I am a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I’m interested in building reliable and trustworthy NLP systems.
 
 [[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)]
 
 ## Datasets
+
+* VisOnlyQA [[huggingface dataset](https://huggingface.co/collections/ryokamoi/visonlyqa-674e86c7ec384b629bb97bc3)] [[code](https://github.com/psunlpgroup/VisOnlyQA)]
+  * Paper: [VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information](https://arxiv.org/abs/2412.00947)
+  * Dataset for evaluating visual perception capabilities of LVLMs on geometric and numerical information about scientific figures
 
 * ReaLMistake [[huggingface dataset](https://huggingface.co/datasets/ryokamoi/realmistake)] [[code](https://github.com/psunlpgroup/ReaLMistake)]
   * Paper: [Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602) (COLM 2024)
