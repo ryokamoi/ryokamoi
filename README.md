@@ -1,4 +1,4 @@
-Ryo Kamoi is a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). He is broadly interested in Natural Language Processing, especially focusing on:
+Ryo Kamoi is a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). He is broadly interested in Natural Language Processing, with a specific focus on:
 
 * Inference-time scaling, detecting and mitigating errors in LLM Responses
 * Fact-checking, factuality evaluation, and textual entailment
