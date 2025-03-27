@@ -1,12 +1,14 @@
-I am a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I’m interested in building reliable and trustworthy NLP systems.
+Ryo Kamoi is a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). He is broadly interested in Natural Language Processing, especially focusing on:
+
+* Inference-time scaling, detecting and mitigating errors in LLM Responses
+* Fact-checking, factuality evaluation, and textual entailment
+* Vision-language models
 
 [[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)]
 
 ## Datasets
 
-* VisOnlyQA [[huggingface dataset](https://huggingface.co/collections/ryokamoi/visonlyqa-674e86c7ec384b629bb97bc3)] [[code](https://github.com/psunlpgroup/VisOnlyQA)]
-  * Paper: [VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information](https://arxiv.org/abs/2412.00947)
-  * Dataset for evaluating visual perception capabilities of LVLMs on geometric and numerical information about scientific figures
+### Text
 
 * ReaLMistake [[huggingface dataset](https://huggingface.co/datasets/ryokamoi/realmistake)] [[code](https://github.com/psunlpgroup/ReaLMistake)]
   * Paper: [Evaluating LLMs at Detecting Errors in LLM Responses](https://arxiv.org/abs/2404.03602) (COLM 2024)
@@ -17,6 +19,12 @@ I am a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang](https:
   * Paper: [WiCE: Real-World Entailment for Claims in Wikipedia](https://arxiv.org/abs/2303.01432) (EMNLP2023)
   * Dataset for document-level NLI
   * Fine-grained textual entailment dataset built on pairs of natural claims and evidence extracted from Wikipedia
+
+### Vision-language
+
+* VisOnlyQA [[project website](https://visonlyqa.github.io/)] [[huggingface dataset](https://huggingface.co/collections/ryokamoi/visonlyqa-674e86c7ec384b629bb97bc3)] [[code](https://github.com/psunlpgroup/VisOnlyQA)]
+  * Paper: [VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information](https://arxiv.org/abs/2412.00947)
+  * Dataset for evaluating visual perception capabilities of LVLMs on geometric and numerical information about scientific figures
 
 ## Survey
 
