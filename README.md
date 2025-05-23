@@ -6,6 +6,13 @@ Ryo Kamoi is a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang
 
 [[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)]
 
+## Models and Training Datasets
+
+* FoVer PRMs [[models and datasets](https://huggingface.co/collections/ryokamoi/fover-682e28cc9f6200c7dfd5342f)] [[code](https://github.com/psunlpgroup/FoVer)] [[project website](https://fover-prm.github.io/)]
+  * Paper: [Training Step-Level Reasoning Verifiers with Formal Verification Tools](https://arxiv.org/abs/2505.15960) (arXiv 2025)
+  * FoVer enhances Process Reward Models (PRMs) for step-level verification of LLM reasoning without relying on human annotation
+  * We propose to use formal verification tools like Z3 and Isabelle to automatically annotate step-level error labels on LLM responses to create training data for PRMs
+
 ## Evaluation Datasets
 
 ### Text
@@ -23,7 +30,7 @@ Ryo Kamoi is a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang
 ### Vision-language
 
 * VisOnlyQA [[project website](https://visonlyqa.github.io/)] [[huggingface dataset](https://huggingface.co/collections/ryokamoi/visonlyqa-674e86c7ec384b629bb97bc3)] [[code](https://github.com/psunlpgroup/VisOnlyQA)]
-  * Paper: [VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information](https://arxiv.org/abs/2412.00947)
+  * Paper: [VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information](https://arxiv.org/abs/2412.00947) (arXiv 2024)
   * Dataset for evaluating visual perception capabilities of LVLMs on geometric and numerical information about scientific figures
 
 ## Survey
