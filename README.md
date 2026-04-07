@@ -8,10 +8,10 @@ Ryo Kamoi is a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang
 
 [[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)]
 
-## Models and Training Datasets
+## Models
 
-* FoVer PRMs [[models and datasets](https://huggingface.co/collections/ryokamoi/fover-682e28cc9f6200c7dfd5342f)] [[code](https://github.com/psunlpgroup/FoVer)] [[project website](https://fover-prm.github.io/)]
-  * Paper: [Generalizable Process Reward Models via Formally Verified Training Data](https://arxiv.org/abs/2505.15960) (arXiv 2025)
+* FoVer PRMs [[models](https://huggingface.co/collections/ryokamoi/fover-682e28cc9f6200c7dfd5342f)] [[code](https://github.com/psunlpgroup/FoVer)] [[project website](https://fover-prm.github.io/)]
+  * Paper: [Efficient PRM Training Data Synthesis via Formal Verification](https://arxiv.org/abs/2505.15960) (ACL 2026 Findings)
   * FoVer is a novel method to create training data for Process Reward Models (PRMs) without relying on human annotation
   * We propose to use formal verification tools like Z3 and Isabelle to automatically annotate step-level error labels on LLM responses to create training data for PRMs
 
