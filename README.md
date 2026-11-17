@@ -1,10 +1,10 @@
 Ryo Kamoi is a Ph.D. student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). He is broadly interested in Natural Language Processing, with a specific focus on:
 
-* LLM Reasoning
-  * Error Detection and Reward Modeling
-  * Self-Correction and Verifier-Guided Refinement
+* Self-evolving LLM agents
+* Self-refinement of LLMs
+* LLM-based verification of LLM responses and intermediate steps
+* LLM-as-a-Judge evaluation of non-verifiable tasks
 * Fact-checking, factuality evaluation, and textual entailment
-* Vision-language models
 
 [[Personal Website](https://ryokamoi.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=4OWTLKAAAAAJ)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ryo-Kamoi/83757854)]
 
